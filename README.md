@@ -1,4 +1,4 @@
-# Hi there, I'm AdityaNarayanPadhi👋
+# Hey, I'm Aditya Narayan Padhi
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=70" />
