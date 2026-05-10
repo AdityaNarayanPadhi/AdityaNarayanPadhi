@@ -1,7 +1,7 @@
 # Hey, I'm Aditya Narayan Padhi
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI/ML%20and%20Data%20Science%20Enthusiast&fontSize=50" />
 </div>
 
 ### 🛠 Tech Stack & Skills
@@ -13,7 +13,8 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics 
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaNarayanPadhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayanPadhi&layout=compact&langs_count=7&theme=radical" />
